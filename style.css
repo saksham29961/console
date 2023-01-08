@@ -1,0 +1,15 @@
+body{
+    background-color: palegreen;
+    color:darkslategrey;
+    text-align:center;
+    border-style:double;
+    border-width:5px;
+    border-radius:30px;
+    border-color:firebrick;
+}
+
+p{
+    font-size:20px;
+    color:lightcoral;
+    background-color:darkslategrey;
+}
